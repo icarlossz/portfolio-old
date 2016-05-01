@@ -1,0 +1,54 @@
+<doctype html>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimal-ui">
+<html>
+<head>
+	<!-- metadata -->
+	<title>Carlos Sz - Personal</title>
+	<meta name="description" content="This is my personal page. I'm Carlos Sz.">
+	<meta name="keywords" content="">
+  <meta name="author" content="Carlos Sz">
+  <meta name="geo.placename" content="Bogotá">
+  <meta name="geo.region" content="CO">
+<!--	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> -->
+	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="materialize/css/materialize.css"
+</head>
+	<body>
+	<script type="text/css" src="style.css"></script>
+	<script type="text/javascript" src="materialize/js/materialize.min.js"></script>
+		<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      
+      
+		<div class="row alturamenutop center-align">
+  			<div class="col l4 m12 s12 bgcolor center-align">Home</div>
+  			<div class="col l4 m12 s12 bgcolor center-align">Work</div>
+  			<div class="col l4 m12 s12 bgcolor center-align">About</div>
+		</div>
+
+		<h1 align="center" class="azul">Carlos Sz<p></h1>
+		<h4 class="bg-success l12 m4" align="center"> 
+		Programador, diseñador, techie y estudiante.
+
+    <p>I'm in permanently beta.<p>
+
+
+	 <div class="carousel">
+    <a class="carousel-item" href="#one!"><img src="http://lorempixel.com/250/250/nature/1"></a>
+    <a class="carousel-item" href="#two!"><img src="http://lorempixel.com/250/250/nature/2"></a>
+    <a class="carousel-item" href="#three!"><img src="http://lorempixel.com/250/250/nature/3"></a>
+    <a class="carousel-item" href="#four!"><img src="http://lorempixel.com/250/250/nature/4"></a>
+    <a class="carousel-item" href="#five!"><img src="http://lorempixel.com/250/250/nature/5"></a>
+  </div>
+
+<p>
+
+	<img class="center-align bounce animation-target" src="html5.png"  width='200px' height='200px'/>
+<img class="center-align bounce animation-target" src="css3.png"  width='145px' height='200px'/></h4>
+
+		<div align="center"><button type="button" class="btn btn-success" >Go!</button></div>
+
+		</p>
+		<h6 align="center">Made with <3 in <em>Bucaramanga, Santander, Colombia</em></h6>
+	</body>
+</html>
